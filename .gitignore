@@ -1,0 +1,16 @@
+# Dataset and huge data files
+dataset/
+*.csv
+*.sqlite
+
+# Machine Learning Models (huge files)
+*.pkl
+*.h5
+*.pt
+*.pth
+
+# IDE and Python caches
+__pycache__/
+.vscode/
+.ipynb_checkpoints/
+.streamlit/
