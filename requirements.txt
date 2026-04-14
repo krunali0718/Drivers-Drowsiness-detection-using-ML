@@ -1,0 +1,10 @@
+streamlit
+opencv-python
+mediapipe
+tensorflow
+pandas
+numpy
+scikit-learn
+matplotlib
+seaborn
+xgboost
